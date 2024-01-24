@@ -1,0 +1,23 @@
+[Description of the Virtual White Board Project]
+
+The Virtual White Board project is a simple drawing application built using the OpenCV library in Python. This interactive program allows users to draw on a virtual canvas using the mouse, creating a digital representation of a whiteboard.
+
+Features:
+1. Drawing Functionality: The program enables users to draw on the virtual whiteboard by clicking and dragging the mouse. The drawing tool is a red circle with a size of 5 pixels.
+   
+2. Clearing the Canvas: Users can clear the entire canvas by pressing the 'c' key, providing a clean slate for new drawings.
+
+3. Exiting the Program: To exit the application, users can press the 'q' key, closing the window and terminating the program.
+
+4. User Interface Elements: The project incorporates a heading "Virtual White Board" displayed at the top center of the canvas, serving as a title for the application. Additionally, a credit line "Made by Yash Kumar" is positioned at the bottom right corner, acknowledging the creator.
+
+5. Customizable Canvas: The canvas is created with an increased size (800x1200 pixels) and a white background, providing ample space for creative expression.
+
+How to Use:
+- Run the script, and a window titled "Virtual White Board" will appear.
+- Use the left mouse button to draw on the canvas.
+- Press 'c' to clear the canvas.
+- Press 'q' to exit the program.
+
+Thank you..
+Yash Kumar
